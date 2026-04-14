@@ -10,6 +10,7 @@
     "prestart": "npm run build"
   },
   "dependencies": {
+    "@prisma/client": "6.19",
     "chalk": "^5.6.2",
     "cookie-parser": "^1.4.7",
     "express": "^5.1.0",
@@ -23,7 +24,7 @@
     "copyfiles": "^2.4.1",
     "eslint": "^9.39.0",
     "prettier": "^3.6.2",
-    "prisma": "^7.5.0",
+    "prisma": "6.19",
     "rimraf": "^6.1.0",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
