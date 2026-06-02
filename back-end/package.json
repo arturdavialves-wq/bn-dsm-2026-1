@@ -10,7 +10,6 @@
     "prestart": "npm run build"
   },
   "dependencies": {
-    "@prisma/client": "6.19",
     "chalk": "^5.6.2",
     "cookie-parser": "^1.4.7",
     "express": "^5.1.0",
